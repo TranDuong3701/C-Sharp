@@ -1,0 +1,15 @@
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.csprojAssemblyReference.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.AssemblyInfoInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.AssemblyInfo.cs
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.csproj.CoreCompileInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/loops.deps.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/loops.runtimeconfig.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/loops.runtimeconfig.dev.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/loops.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/ref/loops.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/bin/Debug/net5.0/loops.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/ref/loops.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/Debug/net5.0/loops.genruntimeconfig.cache

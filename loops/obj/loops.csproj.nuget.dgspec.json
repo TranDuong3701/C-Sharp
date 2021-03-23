@@ -1,0 +1,60 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/loops.csproj": {}
+  },
+  "projects": {
+    "/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/loops.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/loops.csproj",
+        "projectName": "loops",
+        "projectPath": "/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/loops.csproj",
+        "packagesPath": "/Users/trankhacbinhduong/.nuget/packages/",
+        "outputPath": "/Users/trankhacbinhduong/Documents/duo/github/c sharp/loops/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/trankhacbinhduong/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "targetAlias": "net5.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.103/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
