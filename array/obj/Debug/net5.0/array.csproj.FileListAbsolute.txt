@@ -1,0 +1,15 @@
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.csprojAssemblyReference.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.AssemblyInfoInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.AssemblyInfo.cs
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.csproj.CoreCompileInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/array.deps.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/array.runtimeconfig.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/array.runtimeconfig.dev.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/array.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/ref/array.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/bin/Debug/net5.0/array.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/ref/array.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/array/obj/Debug/net5.0/array.genruntimeconfig.cache
