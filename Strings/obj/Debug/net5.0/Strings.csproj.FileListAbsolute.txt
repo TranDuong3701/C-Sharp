@@ -1,0 +1,15 @@
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.csprojAssemblyReference.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.GeneratedMSBuildEditorConfig.editorconfig
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.AssemblyInfoInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.AssemblyInfo.cs
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.csproj.CoreCompileInputs.cache
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/Strings.deps.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/Strings.runtimeconfig.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/Strings.runtimeconfig.dev.json
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/Strings.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/ref/Strings.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/bin/Debug/net5.0/Strings.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/ref/Strings.dll
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.pdb
+/Users/trankhacbinhduong/Documents/duo/github/c sharp/Strings/obj/Debug/net5.0/Strings.genruntimeconfig.cache
